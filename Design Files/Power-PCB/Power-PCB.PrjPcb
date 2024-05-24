@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJFPGREN
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Power-PCB\Design Rule Check - Power.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
