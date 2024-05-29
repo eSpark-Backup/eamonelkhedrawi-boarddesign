@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UWIRFBPD
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Chemist-PCB\Design Rule Check - Chemist.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
