@@ -167,6 +167,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VKLTILWE
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for EamonElkhedrawi-BoardDesign\Design Rule Check - MainPCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
