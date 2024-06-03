@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations,,,,,,,,
+C:\Users\eSpark\Documents\GitHub\eamonelkhedrawi-boarddesign\Design Files\Power-PCB\Project Outputs for Power-PCB\Pick Place for Power.csv,,,,,,,,
+,,,,,,,,
+========================================================================================================================,,,,,,,,
+File Design Information:,,,,,,,,
+,,,,,,,,
+Date:       03/06/24,,,,,,,,
+Time:       16:09,,,,,,,,
+Revision:   0e0482262a2b71c632cc02321eeabeec668e6453,,,,,,,,
+Variant:    No variations,,,,,,,,
+Units used: mm,,,,,,,,
+,,,,,,,,
+Designator,Layer,Center-X(mm),Center-Y(mm),Rotation,Ref-X(mm),Ref-Y(mm),Pad-X(mm),Pad-Y(mm)
+C1,TopLayer,24.4457mm,83.7636mm,90,24.4457mm,83.7636mm,24.4457mm,82.7476mm
+C2,TopLayer,24.4457mm,67.4568mm,90,24.4457mm,67.4568mm,24.4457mm,66.4408mm
+C3,TopLayer,24.4457mm,51.1500mm,90,24.4457mm,51.1500mm,24.4457mm,50.1340mm
+C4,TopLayer,24.4457mm,34.8432mm,90,24.4457mm,34.8432mm,24.4457mm,33.8272mm
+C5,TopLayer,24.4457mm,18.5364mm,90,24.4457mm,18.5364mm,24.4457mm,17.5204mm
+C6,TopLayer,24.4457mm,2.2296mm,90,24.4457mm,2.2296mm,24.4457mm,1.2136mm
+J1,TopLayer,62.2155mm,47.5506mm,90,62.2155mm,47.5506mm,62.2155mm,68.5056mm
+J2,TopLayer,62.2165mm,77.1906mm,90,62.2165mm,77.1906mm,62.2165mm,73.3806mm
+J3,TopLayer,5.9267mm,47.8452mm,270,5.9267mm,47.8452mm,7.3467mm,42.3052mm
+J4,TopLayer,62.2165mm,17.9070mm,90,62.2165mm,17.9070mm,62.2165mm,14.0970mm
+K1,TopLayer,34.6547mm,88.7476mm,0,34.6547mm,88.7476mm,29.5547mm,82.7476mm
+K2,TopLayer,34.6547mm,72.4408mm,0,34.6547mm,72.4408mm,29.5547mm,66.4408mm
+K3,TopLayer,34.6547mm,56.1340mm,0,34.6547mm,56.1340mm,29.5547mm,50.1340mm
+K4,TopLayer,34.6547mm,39.8272mm,0,34.6547mm,39.8272mm,29.5547mm,33.8272mm
+K5,TopLayer,34.6547mm,23.5204mm,0,34.6547mm,23.5204mm,29.5547mm,17.5204mm
+K6,TopLayer,34.6547mm,7.2136mm,0,34.6547mm,7.2136mm,29.5547mm,1.2136mm
+LED1,TopLayer,2.6621mm,75.1586mm,180,2.6621mm,75.1586mm,3.4121mm,75.1586mm
+LED2,TopLayer,2.6621mm,73.4853mm,180,2.6621mm,73.4853mm,3.4121mm,73.4853mm
+LED3,TopLayer,2.6621mm,23.9252mm,180,2.6621mm,23.9252mm,3.4121mm,23.9252mm
+LED4,TopLayer,2.6621mm,71.8121mm,180,2.6621mm,71.8121mm,3.4121mm,71.8121mm
+LED5,TopLayer,2.6621mm,22.2519mm,180,2.6621mm,22.2519mm,3.4121mm,22.2519mm
+LED6,TopLayer,2.6621mm,20.5787mm,180,2.6621mm,20.5787mm,3.4121mm,20.5787mm
+R3,TopLayer,5.3679mm,73.4853mm,0,5.3679mm,73.4853mm,4.6059mm,73.4853mm
+R4,TopLayer,5.3679mm,75.1586mm,0,5.3679mm,75.1586mm,4.6059mm,75.1586mm
+R5,TopLayer,5.3679mm,23.9252mm,0,5.3679mm,23.9252mm,4.6059mm,23.9252mm
+R6,TopLayer,5.3679mm,71.8121mm,0,5.3679mm,71.8121mm,4.6059mm,71.8121mm
+R9,TopLayer,5.3679mm,22.2519mm,0,5.3679mm,22.2519mm,4.6059mm,22.2519mm
+R10,TopLayer,5.3679mm,20.5787mm,0,5.3679mm,20.5787mm,4.6059mm,20.5787mm
+U1,TopLayer,15.1239mm,47.8452mm,0,15.1239mm,47.8452mm,12.4839mm,52.2902mm

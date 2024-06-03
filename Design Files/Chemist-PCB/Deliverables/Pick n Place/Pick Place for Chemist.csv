@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations,,,,,,,,
+C:\Users\eSpark\Documents\GitHub\eamonelkhedrawi-boarddesign\Design Files\Chemist-PCB\Project Outputs for Chemist-PCB\Pick Place for Chemist.csv,,,,,,,,
+,,,,,,,,
+========================================================================================================================,,,,,,,,
+File Design Information:,,,,,,,,
+,,,,,,,,
+Date:       03/06/24,,,,,,,,
+Time:       16:11,,,,,,,,
+Revision:   0e0482262a2b71c632cc02321eeabeec668e6453,,,,,,,,
+Variant:    No variations,,,,,,,,
+Units used: mm,,,,,,,,
+,,,,,,,,
+Designator,Layer,Center-X(mm),Center-Y(mm),Rotation,Ref-X(mm),Ref-Y(mm),Pad-X(mm),Pad-Y(mm)
+C1,TopLayer,75.6932mm,17.7949mm,270,75.6932mm,17.7949mm,75.6932mm,18.8109mm
+C2,TopLayer,49.8360mm,17.7949mm,270,49.8360mm,17.7949mm,49.8360mm,18.8109mm
+C3,TopLayer,23.8010mm,17.7949mm,270,23.8010mm,17.7949mm,23.8010mm,18.8109mm
+C4,TopLayer,-2.1325mm,17.7949mm,270,-2.1325mm,17.7949mm,-2.1325mm,18.8109mm
+J1,TopLayer,85.5730mm,4.1041mm,180,85.5730mm,4.1041mm,90.5730mm,4.1041mm
+J2,TopLayer,59.5307mm,4.1041mm,180,59.5307mm,4.1041mm,64.5307mm,4.1041mm
+J3,TopLayer,33.4884mm,4.1041mm,180,33.4884mm,4.1041mm,38.4884mm,4.1041mm
+J4,TopLayer,7.4462mm,4.1041mm,180,7.4462mm,4.1041mm,12.4461mm,4.1041mm
+J5,TopLayer,151.7661mm,23.3573mm,90,151.7662mm,23.3573mm,150.3461mm,28.8973mm
+J6,TopLayer,22.7342mm,71.8713mm,180,22.7342mm,71.8713mm,36.0692mm,71.8713mm
+K1,TopLayer,85.3365mm,20.9669mm,90,85.3365mm,20.9669mm,91.3365mm,15.8669mm
+K2,TopLayer,59.2942mm,20.9669mm,90,59.2942mm,20.9669mm,65.2942mm,15.8669mm
+K3,TopLayer,33.2520mm,20.9669mm,90,33.2520mm,20.9669mm,39.2519mm,15.8669mm
+K4,TopLayer,7.2097mm,20.9669mm,90,7.2097mm,20.9669mm,13.2097mm,15.8669mm
+LED1,TopLayer,141.2116mm,6.2243mm,270,141.2116mm,6.2243mm,141.2116mm,6.9743mm
+LED2,TopLayer,139.3574mm,6.2243mm,270,139.3574mm,6.2243mm,139.3574mm,6.9743mm
+LED3,TopLayer,135.6490mm,6.2243mm,270,135.6490mm,6.2243mm,135.6490mm,6.9743mm
+LED4,TopLayer,137.5032mm,6.2243mm,270,137.5032mm,6.2243mm,137.5032mm,6.9743mm
+R3,TopLayer,141.2116mm,8.8405mm,90,141.2116mm,8.8405mm,141.2116mm,8.0785mm
+R4,TopLayer,139.3574mm,8.8405mm,90,139.3574mm,8.8405mm,139.3574mm,8.0785mm
+R5,TopLayer,135.6490mm,8.8405mm,90,135.6490mm,8.8405mm,135.6490mm,8.0785mm
+R6,TopLayer,137.5032mm,8.8405mm,90,137.5032mm,8.8405mm,137.5032mm,8.0785mm
+U1,TopLayer,138.2832mm,23.3573mm,180,138.2832mm,23.3573mm,140.9232mm,18.9123mm

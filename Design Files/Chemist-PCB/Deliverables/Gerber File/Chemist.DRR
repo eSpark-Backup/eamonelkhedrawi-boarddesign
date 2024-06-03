@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Chemist.PcbDoc   6/3/2024  3:35:57 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Chemist.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             44        PTH        13.66inch (346.92mm)
+T2      41mil (1.05mm)                                            Round             9         PTH        0.89inch (22.55mm)
+T3      47mil (1.2mm)                                             Round             12        PTH        3.86inch (98.13mm)
+T4      60mil (1.524mm)                                           Round             20        PTH        8.41inch (213.52mm)
+T5      63mil (1.6mm)                                             Round             8         PTH        1.05inch (26.67mm)
+T6      122mil (3.1mm)                                            Round             2         PTH        0.98inch (24.99mm)
+T7      118mil (3mm)                                              Round             4         NPTH       11.00inch (279.33mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              99
+
+Total Processing Time (hh:mm:ss) : 00:00:00
